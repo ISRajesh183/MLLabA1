@@ -24,12 +24,12 @@ requirements.txt - List of required Python packages
 ## Running the Code
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ML-Lab.git
+    git clone https://github.com/ISRajesh183/MLLabA1.git
     cd ML-Lab/Experiment-1
     ```
 2. Install dependencies:
     ```bash
     pip install -r requirements.txt
     ```
-3. Open `MLLabAssignment1.ipynb` in Jupyter or Colab.
+3. Open `MLLabAssignment1.ipynb` and `A1_CoreOperations` in Jupyter or Colab.
 
