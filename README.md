@@ -16,10 +16,10 @@ ML Lab Assignment1- Working with Python Libraries
 - Iris Dataset (Scikit-learn)
 
 ## Project Structure
-notebooks/ - Jupyter Notebook implementing all steps
-datasets/ - Raw data files used in the notebook
-screenshots/ - Visual outputs from notebook (plots, confusion matrices)
-requirements.txt - List of required Python packages
+- notebooks/ - Jupyter Notebook implementing all steps
+- datasets/ - Raw data files used in the notebook
+- screenshots/ - Visual outputs from notebook (plots, confusion matrices)
+- requirements.txt - List of required Python packages
 
 ## Running the Code
 1. Clone the repository:
