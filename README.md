@@ -16,7 +16,7 @@ ML Lab Assignment1- Working with Python Libraries
 - Iris Dataset (Scikit-learn)
 
 ## Project Structure
-- notebooks/ - Jupyter Notebook implementing all steps
+- notebook/ - Jupyter Notebook implementing all steps
 - datasets/ - Raw data files used in the notebook
 - screenshots/ - Visual outputs from notebook (plots, confusion matrices)
 - requirements.txt - List of required Python packages
@@ -25,7 +25,7 @@ ML Lab Assignment1- Working with Python Libraries
 1. Clone the repository:
     ```bash
     git clone https://github.com/ISRajesh183/MLLabA1.git
-    cd ML-Lab/Experiment-1
+    cd MLLabA1
     ```
 2. Install dependencies:
     ```bash
