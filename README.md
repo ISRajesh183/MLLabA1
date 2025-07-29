@@ -31,5 +31,5 @@ ML Lab Assignment1- Working with Python Libraries
     ```bash
     pip install -r requirements.txt
     ```
-3. Open `MLLabAssignment1.ipynb` and `A1_CoreOperations` in Jupyter or Colab.
+3. Open `MLA1_new.ipynb` and `A1_CoreOperations.ipynb` in Jupyter or Colab.
 
